@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_back">Назад</string>
+    <string name="settings">Настройки</string>
+    <string name="button_flash">Вспышка</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_quit">Выйти</string>
+    <string name="button_scanner">Сканер</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_close">Закрыть</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="dialog_close">Вы действительно хотите закрыть сканер?</string>
+    <string name="dialog_camera">Доступ к камере</string>
+    <string name="dialog_camera_body">Приложению требуется доступ к камере. Предоставить доступ можно в настройках.</string>
+    <string name="button_open">Открыть</string>
+    <string name="detail_references">Образцы для сравнения</string>
+    <string name="detail_many">Возможные варианты</string>
+    <string name="snackbar_changes_saved">Изменения сохранены</string>
+    <string name="snackbar_err_save">Не удалось сохранить изменения</string>
+    <string name="error_qr">Некорректный Qr-код</string>
+    <string name="label_port">Порт</string>
+    <string name="err_network">Ошибка сети. Проверьте подключение</string>
+    <string name="err_scanner">Неизвестная ошибка</string>
+    <string name="error">Ошибка</string>
+    <string name="delete_report">Вы действительно хотите удалить отчет?</string>
+    <string name="delete_reports">Удалить выбранные элементы</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="theme_system">Система</string>
+    <string name="button_saved">Сохранено</string>
+</resources>
